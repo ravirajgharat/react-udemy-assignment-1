@@ -1,0 +1,14 @@
+.input {
+    width: 200px;
+    padding: 5px 0;
+}
+.input_div {
+    width: 400px;
+    margin: 16px auto;
+    text-align: center;
+    border: 2px solid blue;
+    padding: 16px 0;
+}
+span {
+    color: blue;
+}
